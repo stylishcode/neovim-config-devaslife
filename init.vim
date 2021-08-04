@@ -66,10 +66,10 @@ set formatoptions+=r
 "}}}
 
 " disable arrow navigation (training for hjkl)
-nnoremap <Left> <Nop>
-nnoremap <Right> <Nop>
-nnoremap <Up> <Nop>
-nnoremap <Down> <Nop>
+" nnoremap <Left> <Nop>
+" nnoremap <Right> <Nop>
+" nnoremap <Up> <Nop>
+" nnoremap <Down> <Nop>
 
 " Highlights "{{{
 " ---------------------------------------------------------------------
