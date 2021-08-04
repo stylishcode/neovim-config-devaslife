@@ -18,6 +18,11 @@ call plug#begin()
     Plug 'nvim-telescope/telescope.nvim'
     Plug 'kyazdani42/nvim-web-devicons'
     Plug 'hoob3rt/lualine.nvim'
+    " don't need configurations, just install them
+    Plug 'sheerun/vim-polyglot'
+    Plug 'mattn/emmet-vim'
+    Plug 'tpope/vim-commentary'
+    Plug 'ap/vim-css-color'
   endif
 
 call plug#end()
