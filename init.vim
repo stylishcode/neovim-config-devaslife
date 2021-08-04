@@ -71,6 +71,15 @@ set formatoptions+=r
 " nnoremap <Up> <Nop>
 " nnoremap <Down> <Nop>
 
+" commons shortcuts
+nnoremap q :quit<CR>
+nnoremap <silent> ;w :write<CR>
+nnoremap <silent> ;qa :qa!<CR>
+
+" split panel
+nnoremap <silent> ;vs :vsplit<CR>
+nnoremap <silent> ;hs :split<CR>
+
 " Highlights "{{{
 " ---------------------------------------------------------------------
 set cursorline
