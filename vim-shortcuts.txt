@@ -1,0 +1,16 @@
+Telescope
+  ;f -> find files
+  ;r -> live_grep
+  \\ -> open buffers
+  ;; -> help tags
+  esc+q -> close actions
+  
+Emmet
+  ctrl-y then ,
+  more examples: https://raw.githubusercontent.com/mattn/emmet-vim/master/TUTORIAL
+
+Vim commentary
+  gc -> line
+  gcc -> block
+  gc5j -> 5 lines below
+  gc5k -> 5 lines above
